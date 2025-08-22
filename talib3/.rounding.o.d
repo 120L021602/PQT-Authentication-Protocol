@@ -1,0 +1,4 @@
+rounding.o: rounding.c \
+ /home/kidds/testedoptee/optee_os/out/arm/export-ta_arm32/include/stdint.h \
+ /home/kidds/testedoptee/optee_os/out/arm/export-ta_arm32/include/limits.h \
+ include/params.h include/config.h include/rounding.h include/params.h

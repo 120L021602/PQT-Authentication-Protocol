@@ -1,0 +1,20 @@
+global-incdirs-y += include
+srcs-y += talib1.c
+srcs-y += bn.c
+srcs-y += params.c
+srcs-y += bn_field2.c
+srcs-y += bn_field4.c
+srcs-y += bn_field12.c
+srcs-y += bn_point.c
+srcs-y += bn_point2.c
+srcs-y += bn_pairing.c
+srcs-y += sm3.c
+srcs-y += sm4.c
+srcs-y += libmath.c
+srcs-y += utility.c
+srcs-y += sm9.c
+srcs-y += sm2.c
+srcs-y += mtwister.c
+srcs-y += otp.c
+srcs-y += pkey.c
+
